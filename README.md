@@ -1,4 +1,4 @@
-# Word-Search-Puzzle-Game
+# Word-Search-Puzzle-Game (This is my first project and I made this when i was learning C++)
 A word search is a puzzle that uses words and puts them in a grid. The point of the game is to find a word hidden in the grid and that word will be the name of any programming language. If you are not able to find the word then you can also take hint and try again. When you stop playing the game your Total Score will be displayed.
 
 ![WordSearch1](https://user-images.githubusercontent.com/103293218/162578020-c3621a41-3e10-4c0f-b6d4-13362326ffcf.png)
